@@ -1,1 +1,2 @@
-print("hello word\n");
+print("hello word");
+print("this is world");
